@@ -1,0 +1,125 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: hsl(0, 0%, 95%);
+}
+#size{
+    font-size: 1em;
+    border: solid hsl(0, 0%, 0.8);
+    margin-bottom: 10px;
+}
+#myButton1{
+    font-size: 2rem;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+#myButton1:hover{
+    background-color: rgb(196, 0, 0);
+    cursor: pointer;
+}
+#myButton{
+    font-size: 2rem;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+#myButton:hover{
+    background-color: rgb(196, 0, 0);
+    cursor: pointer;
+}
+
+#myButton2{
+    font-size: 2rem;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+#myButton2:hover{
+    background-color: rgb(196, 0, 0);
+    cursor: pointer;
+}
+#myButton3{
+    font-size: 2rem;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+#myButton3:hover{
+    background-color: rgb(196, 0, 0);
+    cursor: pointer;
+}
+
+#myButton4{
+    font-size: 2rem;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+#myButton4:hover{
+    background-color: rgb(196, 0, 0);
+    cursor: pointer;
+}
+h1{
+    color: rgb(130, 5, 5);
+}
+#mySize{
+    font-size: 1em;
+}
+#mySize:hover{
+    cursor: pointer;
+}
+#mySubmit{
+    font-size: 1em;
+}
+#mySubmit:hover{
+    cursor: pointer;
+}
+#mySize1{
+    font-size: 1.5rem;
+    background-color: blue;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+#mySize1:hover{
+    background-color: rgb(0, 0, 189);
+    cursor: pointer;
+}
+#mySize2{
+    font-size: 1.5rem;
+    background-color: blue;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+#mySize2:hover{
+    background-color: rgb(0, 0, 189);
+    cursor: pointer;
+}
+#mySize3{
+    font-size: 1.5rem;
+    background-color: blue;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+#mySize3:hover{
+    background-color: rgb(0, 0, 189);
+    cursor: pointer;
+}
+#mySize4{
+    font-size: 1.5rem;
+    background-color: blue;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+#mySize4:hover{
+    background-color: rgb(0, 0, 189);
+    cursor: pointer;
+}
